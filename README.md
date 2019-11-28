@@ -1,3 +1,6 @@
+### this is just a copy from 3blue1brown to study his animation.
+
+
 ![logo](logo/cropped.png)
 
 [![Build Status](https://travis-ci.org/3b1b/manim.svg?branch=master)](https://travis-ci.org/3b1b/manim)
