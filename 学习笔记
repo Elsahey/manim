@@ -1,0 +1,18 @@
+# 这是一份学习笔记
+来自：https://www.youtube.com/watch?v=yI2YJff9SgI&list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F&index=5
+
+## 文件作用
++ active_projects：还在开发的动画效果
++ old_projects:已经完成的老的动画效果
+
+
+## class的命名规则
++ 不能用数字开头
++ 不能用class，可以用Class
++ 可以用_来表示空格
+
+实例：
+class SquareToCircle(Scene):
+
+
+## def()——method
